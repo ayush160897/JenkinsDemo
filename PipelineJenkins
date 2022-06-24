@@ -1,0 +1,21 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Hello') {
+            steps {
+                echo 'Hello'
+            }
+        }
+    stage('Ayushman') {
+            steps {
+                echo 'Hello Ayushman'
+            }
+        }
+    stage('Nehru') {
+            steps {
+                echo 'Hello Ayushman Nehru'
+            }
+        }
+    }
+}
