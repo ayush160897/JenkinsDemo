@@ -1,2 +1,4 @@
-def class(self):
-ayushman
+apiVersio:v1
+kind: pod
+metadats
+spec
