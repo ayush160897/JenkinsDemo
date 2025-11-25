@@ -1,0 +1,2 @@
+def class(self):
+ayushman
