@@ -1,0 +1,4 @@
+apiVersion:V1
+kind: serice
+metadata:
+spec:
